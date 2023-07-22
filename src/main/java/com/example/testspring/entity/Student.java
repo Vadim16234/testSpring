@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
-@Entity
+@Entity // связывает класс с базой данных (БД)
 @Getter
 @Setter
 @ToString
